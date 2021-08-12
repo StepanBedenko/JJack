@@ -19,7 +19,7 @@ import java.util.Iterator;
 public class TilemapActor extends Actor {
 
     public static int windowWidth = 800;
-    public static int windowHeight = 600;
+    public static int windowHeight = 640;
 
     private TiledMap tiledMap;
     private OrthographicCamera tiledCamera;
